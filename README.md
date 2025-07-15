@@ -1,6 +1,6 @@
 # 🍽️ Sabor Express - Menu CLI
 
-**Sabor Express** é uma aplicação em desenvolvimento, feita em Python, que simula um sistema de gerenciamento de restaurantes via terminal (CLI).
+**Sabor Express** é uma aplicação em desenvolvimento, feita em Python, que simula um sistema de gerenciamento de restaurantes via terminal (posteriomente com interface gráfica).
 Permite cadastrar, listar e futuramente ativar restaurantes de maneira simples e prática.
 
 # 🚀 Funcionalidades atuais
