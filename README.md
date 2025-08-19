@@ -13,7 +13,9 @@ Permite cadastrar, listar e futuramente ativar restaurantes de maneira simples e
 
 - ✅ Listagem de restaurantes
 
-- 🚧 Ativação de restaurantes (em desenvolvimento)
+- ✅ Ativação de restaurantes
+
+- 🚧 Interfáce gráfica (em desenvolvimento)
 
 # ▶️ Como executar Clone o repositório:
 
